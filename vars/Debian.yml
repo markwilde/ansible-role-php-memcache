@@ -1,0 +1,3 @@
+---
+apt_package: php5-memcache
+php_memcache_ini_filename: memcache
